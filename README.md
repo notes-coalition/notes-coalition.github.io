@@ -4,7 +4,7 @@ Welcome! This is the Notes Coalition's "HubNote" (term coined right now). It con
 
 ## List of notes
 
-[Mace's Notes](macesnotes.netlify.app/)
+[Mace's Notes](https://macesnotes.netlify.app/)
 by Mace
 has notes on:
 - Y10 Science (Physics, Biology and Chem)
