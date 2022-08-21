@@ -4,16 +4,6 @@ Welcome! This is the Notes Coalition's "HubNote" (term coined right now). It con
 
 ## List of notes
 
-[Mace's Notes](https://macesnotes.netlify.app/)
-by Mace
-has notes on:
-- Y10 Science (Physics, Biology and Chem)
-- Y10 Computer Science
-- Y10 Politics and Law
-- Y10 Economics
-- Y10 Philosophy
-- Y10 Psychology
-
 [Mint garden](https://mint-garden.netlify.app/)  
 by Spicata  
 has notes on:  
@@ -38,6 +28,16 @@ has notes on:
 - Literature
 - Accounting and Finance
 - Economics
+
+[Mace's Notes](https://macesnotes.netlify.app/)
+by Mace
+has notes on:
+- Y10 Science (Physics, Biology and Chem)
+- Y10 Computer Science
+- Y10 Politics and Law
+- Y10 Economics
+- Y10 Philosophy
+- Y10 Psychology
 
 [Notes™](https://notes.notmario.net/)  
 by not mario  
