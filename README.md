@@ -15,12 +15,12 @@ has notes on:
 [Ed's Obsidian Notes](https://edsobsidiannotes.netlify.app/)  
 by Ed  
 has notes on:  
-- Methods
 - Year 11 Chemistry
-- Chinese
 - Economics
-- English
-- Year 11 Specialist
+- Methods - In the future
+- Chinese - In the future
+- Literature - In the future
+- Year 11 Specialist - In the future
 
 [Notes moment](https://harperb160.wixsite.com/notes-moment)  
 by Harper  
