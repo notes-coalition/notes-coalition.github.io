@@ -1,6 +1,6 @@
 # HubNote
 
-Welcome! This is the Notes Coalition's "HubNote" (term coined right now). It contains our notes.
+Welcome! This is the Notes Coalition's 'HubNote' (term coined right now). It contains our notes.
 
 ## List of notes
 
