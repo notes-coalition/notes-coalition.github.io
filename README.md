@@ -12,7 +12,7 @@ has notes on:
 - Organic Chemistry
 - Science Inquiry Skills
 
-[Ed's Obsidian Notes](https://edsobsidiannotes.netlify.app/)  
+[Ed's Obsidian Notes](https://eddietheed.github.io/obsidiannotes-v.2/)  
 by Ed  
 has notes on:  
 - Year 11 Chemistry
