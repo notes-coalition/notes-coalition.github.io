@@ -4,13 +4,15 @@ Welcome! This is the Notes Coalition's 'HubNote' (term coined right now). It con
 
 ## List of notes
 
-[Mint garden](https://mint-garden.netlify.app/)  
-by Spicata  
+[Mint Fresh Notes :*)*](https://mint-garden.netlify.app/)  
+by M.spicata
 has notes on:  
-- Philosophy
-- Chinese Grammar
-- Organic Chemistry
-- Science Inquiry Skills
+- Nuclear Physics
+- Nuclear Power
+- Short on Aboriginal Philosophy
+- Short on Marxism
+- HIV
+- Philosophy of Kant
 
 [Ed's Obsidian Notes](https://eddietheed.github.io/obsidiannotes-v.2/)  
 by Ed  
@@ -21,13 +23,6 @@ has notes on:
 - Chinese - In the future
 - Literature - In the future
 - Year 11 Specialist - In the future
-
-[Notes moment](https://harperb160.wixsite.com/notes-moment)  
-by Harper  
-has notes on:  
-- Literature
-- Accounting and Finance
-- Economics
 
 [Mace's Notes](https://macesnotes.netlify.app/)
 by Mace
