@@ -2,7 +2,7 @@
 
 Welcome! This is the Notes Coalition's 'HubNote' (term coined right now). It contains our notes.
 
-## List of notes
+## Relatively Done
 
 [Mint Fresh Notes :*)*](https://mint-garden.netlify.app/)  
 by M.spicata
@@ -39,3 +39,13 @@ by not mario
 has notes on:  
 - Economics
 - Science (Semester 1 and 2)
+
+## In progress
+
+[Nuclei Moment](https://pale-ladybug-133.notion.site/Nuclei-moment-2c89b8b95cc74fd6bab60300753d48e8)
+by anonymous135
+- Nuclear Physics
+
+[USAF Notes](https://mq9-reaper.netlify.app/)
+by MQ-9 Reaper
+- Science
