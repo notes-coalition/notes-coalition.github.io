@@ -5,7 +5,7 @@ Welcome! This is the Notes Coalition's 'HubNote' (term coined right now). It con
 ## Relatively Done
 
 [Mint Fresh Notes :*)*](https://mint-garden.netlify.app/)  
-by M.spicata
+by M.spicata  
 has notes on:  
 - Nuclear Physics
 - Nuclear Power
@@ -24,8 +24,8 @@ has notes on:
 - Literature - In the future
 - Year 11 Specialist - In the future
 
-[Mace's Notes](https://macesnotes.netlify.app/)
-by Mace
+[Mace's Notes](https://macesnotes.netlify.app/)  
+by Mace  
 has notes on:
 - Y10 Science (Physics, Biology and Chem)
 - Y10 Computer Science
@@ -42,10 +42,10 @@ has notes on:
 
 ## In progress
 
-[Nuclei Moment](https://pale-ladybug-133.notion.site/Nuclei-moment-2c89b8b95cc74fd6bab60300753d48e8)
-by anonymous135
+[Nuclei Moment](https://pale-ladybug-133.notion.site/Nuclei-moment-2c89b8b95cc74fd6bab60300753d48e8)  
+by anonymous135  
 - Nuclear Physics
 
-[USAF Notes](https://mq9-reaper.netlify.app/)
-by MQ-9 Reaper
+[USAF Notes](https://mq9-reaper.netlify.app/)  
+by MQ-9 Reaper  
 - Science
