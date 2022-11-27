@@ -4,9 +4,9 @@ Welcome! This is the Notes Coalition's 'HubNote' (term coined right now). It con
 
 ## Relatively Done
 
-[mint fresh notes :*)*](https://spicata.github.io/mint-fresh-notes/)  
+<img src="https://spicata.github.io/mint-fresh-notes/logo.png" width="16px"> [mint fresh notes :*)*](https://spicata.github.io/mint-fresh-notes/)  
 by M.spicata  
-has on:  
+has:  
 - Nuclear Physics Notes + Report
 - Nuclear Power Notes
 - HIV Notes
@@ -14,7 +14,7 @@ has on:
 - Biology Flashcards
 - Personal Experiences
 
-[Ed's Obsidian Notes](https://eddietheed.github.io/obsidiannotes-v.2/)  
+<img src="https://eddietheed.github.io/obsidiannotes-v.2/icon.png" width="16px"> [Ed's Obsidian Notes](https://eddietheed.github.io/obsidiannotes-v.2/)  
 by Ed  
 has notes on:  
 - Year 11 Chemistry
@@ -26,7 +26,7 @@ has notes on:
 - Literature - In the future
 - Year 11 Specialist - In the future
 
-[Mace's Notes](https://macesnotes.netlify.app/)  
+<img src="https://macesnotes.netlify.app/favicon-32x32.png" width="16px"> [Mace's Notes](https://macesnotes.netlify.app/)  
 by Mace  
 has notes on:
 - Y10 Science (Physics, Biology and Chem)
@@ -36,7 +36,7 @@ has notes on:
 - Y10 Philosophy
 - Y10 Psychology
 
-[Notes™](https://notes.notmario.net/)  
+<img src="https://notes.notmario.net/Images/favicon.png" width="16px"> [Notes™](https://notes.notmario.net/)  
 by not mario  
 has notes on:  
 - Economics
