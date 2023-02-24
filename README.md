@@ -53,4 +53,6 @@ has notes on:
 [USAF Notes](https://mq9-reaper.netlify.app/)  
 by MQ-9 Reaper  
 has notes on:
-- Science
+- Y10 Science
+- Y11 Computer Science
+- Y11 Economics
