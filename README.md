@@ -14,7 +14,7 @@ has:
 - Biology Flashcards
 - Personal Experiences
 
-<img src="https://eddietheed.github.io/obsidiannotes-v.2/icon.png" width="16px"> [Ed's Obsidian Notes](https://eddietheed.github.io/obsidiannotes-v.2/)  
+<img src="https://eddietheed.github.io/obsidiannotes-v.2/icon.png" width="16px"> [Ed's Obsidian Notes](https://eddietheed.github.io/obsidiannotes-v.3/)  
 by Ed  
 has notes on:  
 - Year 11 Chemistry
@@ -53,4 +53,6 @@ has notes on:
 [USAF Notes](https://mq9-reaper.netlify.app/)  
 by MQ-9 Reaper  
 has notes on:
-- Science
+- Y10 Science
+- Y11 Computer Science
+- Y11 Economics
